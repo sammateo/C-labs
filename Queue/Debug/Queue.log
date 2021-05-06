@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\samma\OneDrive\Documents\Queue\main.cpp(52,23): warning C4101: 'i': unreferenced local variable
+  Queue.vcxproj -> C:\Users\samma\OneDrive\Documents\Queue\Debug\Queue.exe
